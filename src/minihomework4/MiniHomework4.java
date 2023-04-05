@@ -11,6 +11,7 @@ public class MiniHomework4 {
         System.out.println("This is my second commit");
         System.out.println("This is my third commity");
         System.out.println("This is my 1st commit in branch 2");
+        System.out.println("Still in branch 2");
     }
     
 }

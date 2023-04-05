@@ -12,6 +12,8 @@ public class MiniHomework4 {
         System.out.println("This is my third commity");
         System.out.println("Writing in the first branch");
         System.out.println("Still in the 1st branch");
+        System.out.println("Still in the 1st branch");
+
     }
     
 }
